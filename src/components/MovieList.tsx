@@ -20,18 +20,18 @@ const movies = [
   {
     id: 2,
     title: "Ghostbusters: Frozen Empire",
-    image: "https://placehold.co/300x450",
+    image: "https://miro.medium.com/v2/resize:fit:1400/1*CoAC5-mie82BMKYBMhTQ1A.jpeg",
     releaseDate: "2024-03-22",
     availableSeats: 30,
     price: 14.99,
   },
   {
     id: 3,
-    title: "Ghostbusters: Frozen Empire",
-    image: "https://placehold.co/300x450",
+    title: "72 Hours: Martyr Who Never Died",
+    image: "https://assets-in.bmscdn.com/discovery-catalog/events/et00092012-jzfnqbgwds-landscape.jpg",
     releaseDate: "2024-03-22",
-    availableSeats: 30,
-    price: 14.99,
+    availableSeats: 25,
+    price: 19.99,
   },
 ];
 
