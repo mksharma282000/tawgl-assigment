@@ -12,7 +12,7 @@ const movies = [
   {
     id: 1,
     title: "Dune: Part Two",
-    image: "https://placehold.co/300x450",
+    image: "https://www.thelance.org/wp-content/uploads/2021/12/Villeneuve-Dune-courtesy-of-TV-Insider-752x440-1.jpg",
     releaseDate: "2024-03-01",
     availableSeats: 45,
     price: 12.99,
